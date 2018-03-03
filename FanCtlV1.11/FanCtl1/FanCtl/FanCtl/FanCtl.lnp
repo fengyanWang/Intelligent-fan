@@ -1,0 +1,10 @@
+"FanCtl.obj",
+"uart.obj",
+"TC_Read.obj",
+"motor.obj",
+"data_parse.obj",
+"key.obj",
+"18b20.obj",
+"delay.obj" 
+TO "FanCtl" 
+RAMSIZE(256) 
